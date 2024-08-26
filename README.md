@@ -25,6 +25,7 @@ This project is a simple graphical user interface (GUI) for interacting with a P
     ```sh
     pip install psycopg2
     ```
+3. Make sure to install and setup PostgreSQL before running
 
 ## Usage
 
