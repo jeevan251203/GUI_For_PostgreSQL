@@ -43,7 +43,3 @@ This project is a simple graphical user interface (GUI) for interacting with a P
     ```sh
     python main.py
     ```
-
-## License
-
-This project is licensed under the MIT License.
